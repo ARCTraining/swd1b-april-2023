@@ -2,3 +2,5 @@
 .Rproj.user
 data/*
 !data/.gitkeep
+figures/*
+!figures/.gitkeep
